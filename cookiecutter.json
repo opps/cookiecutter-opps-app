@@ -4,7 +4,7 @@
     "github_username": "you_at_github",
     "project_name": "Your app name",
     "repo_name": "name for your app, will be prefixed opps-{repo_name}",
-    "project_short_description": "Some description,
+    "project_short_description": "Some description",
     "project_url": "http://github.com/your_repo_url",
     "project_thumbnail": "if you have a thumb.png",
     "release_date": "2013-11-26",
